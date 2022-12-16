@@ -1,7 +1,7 @@
 
 # banking-system
 
-Daplicação web fullstack, dockerizada, que simula um sistema bancário em que usuários consigam realizar transferências internas entre si.
+Aplicação web fullstack, dockerizada, que simula um sistema bancário em que usuários consigam realizar transferências internas entre si.
 
 
 ## Documentação da API
